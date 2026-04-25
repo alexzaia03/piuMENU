@@ -78,7 +78,7 @@ def fail_with_help(error: Exception) -> None:
 # ============================================================
 # Esempio 3: Analisi di dati (es. lista ingredienti)
 print("\n--- Esempio 3: Analisi ingredienti ---")
-ingredienti = ["pomodori", "mozzarella", "basilico", "olio d'oliva"]
+ingredienti = ["uova", "guanciale", "pecorino", "pasta"]
 #richiesta
 prompt = f"Data questa lista di ingredienti: {ingredienti}. Che piatto consiglieresti di preparare? Rispondi in italiano."
 
