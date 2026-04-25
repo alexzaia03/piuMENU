@@ -44,3 +44,7 @@ except Exception as e:
     print(f"❌ Errore gestito: {e}")
 
 print("\n✅ Tutorial completato!")
+
+
+
+#ciao leo qua
